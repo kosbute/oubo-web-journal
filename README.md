@@ -1,2 +1,14 @@
 # oubo-web-journal
-HTML page archive and documentation
+
+自动生成页面存放处
+
+本仓库记录页面发布结果，页面文件会按任务追加保存。
+
+## 文件管理
+
+- HTML 文件由发布流程生成
+- README 用于保留基础说明
+
+## 内容说明
+
+仓库中的 HTML 文件为主要内容，README 仅保留简要说明。
